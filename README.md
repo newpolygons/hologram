@@ -1,2 +1,2 @@
 # hologram
-create holograms
+holograms displayed in 3d
